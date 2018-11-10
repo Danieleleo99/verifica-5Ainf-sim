@@ -7,7 +7,7 @@ Nella cartella `design` trovate il file "wireframe.png" con la porzione di pagin
 ## Esecuzione del compito
 Eseguite le seguenti operazioni, dopo aver completato ognuna di esse mettete una spunta sulla relativa casella.
 
-- [ ] accedete con il vostro account personale (**non sbagliate password!**)
+- [x] accedete con il vostro account personale (**non sbagliate password!**)
 - [ ] fate il fork di questo progetto
 - [ ] copiate l'URL relativo al **vostro** progetto
 - [ ] aprite git-bash su Windows
